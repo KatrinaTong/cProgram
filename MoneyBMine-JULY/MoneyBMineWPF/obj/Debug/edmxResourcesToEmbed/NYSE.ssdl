@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NYSEDataModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'NYSEData.dbo.NYSEDailyPriceA' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="NYSEDailyPriceA">
+          <Property Name="exchange" Type="nvarchar" MaxLength="50" />
+          <Property Name="stock_symbol" Type="nvarchar" MaxLength="50" />
+          <Property Name="date" Type="date" />
+          <Property Name="stock_price_open" Type="float" />
+          <Property Name="stock_price_high" Type="float" />
+          <Property Name="stock_price_low" Type="float" />
+          <Property Name="stock_price_close" Type="float" />
+          <Property Name="stock_volume" Type="int" />
+          <Property Name="stock_price_adj_close" Type="float" />
+        </EntityType>-->
+  <!--Errors Found During Generation:
+warning 6013: The table/view 'NYSEData.dbo.NYSEData' does not have a primary key defined and no valid primary key could be inferred. This table/view has been excluded. To use the entity, you will need to review your schema, add the correct keys, and uncomment it.
+        <EntityType Name="NYSEData">
+          <Property Name="exchange" Type="nvarchar" MaxLength="50" />
+          <Property Name="stock_symbol" Type="nvarchar" MaxLength="50" />
+          <Property Name="date" Type="datetime2" Precision="7" />
+          <Property Name="stock_price_open" Type="float" />
+          <Property Name="stock_price_high" Type="float" />
+          <Property Name="stock_price_low" Type="float" />
+          <Property Name="stock_price_close" Type="float" />
+          <Property Name="stock_volume" Type="int" />
+          <Property Name="stock_price_adj_close" Type="float" />
+        </EntityType>-->
+  <EntityContainer Name="NYSEDataModelStoreContainer" />
+</Schema>

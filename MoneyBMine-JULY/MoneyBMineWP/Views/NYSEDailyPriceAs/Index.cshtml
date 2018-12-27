@@ -1,0 +1,78 @@
+﻿@model IEnumerable<MoneyBMineWP.Models.NYSEDailyPriceA>
+
+@{
+    ViewBag.Title = "Foreign Stock Data";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+           exchange
+        </th>
+        <th>
+          date
+        </th>
+        <th>
+            price_open
+        </th>
+        <th>
+            high
+        </th>
+        <th>
+            low
+        </th>
+        <th>
+            close
+        </th>
+        <th>
+            stock_volume
+        </th>
+        <th>
+            price_adj_close
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.exchange)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.date)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.stock_price_open)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.stock_price_high)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.stock_price_low)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.stock_price_close)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.stock_volume)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.stock_price_adj_close)
+        </td>
+
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id}) 
+            @Html.ActionLink("Details", "Details", new { id = item.id }) 
+            @Html.ActionLink("Delete", "Delete", new { id = item.id })
+        </td>
+    </tr>
+}
+
+</table>

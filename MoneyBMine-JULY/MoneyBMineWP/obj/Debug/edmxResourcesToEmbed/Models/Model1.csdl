@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NYSEDataModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="NYSEDailyPriceA">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="exchange" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="stock_symbol" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="stock_price_open" Type="Double" Nullable="false" />
+    <Property Name="stock_price_high" Type="Double" Nullable="false" />
+    <Property Name="stock_price_low" Type="Double" Nullable="false" />
+    <Property Name="stock_price_close" Type="Double" Nullable="false" />
+    <Property Name="stock_volume" Type="Int32" Nullable="false" />
+    <Property Name="stock_price_adj_close" Type="Double" Nullable="false" />
+    <Property Name="id" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NYSEData">
+    <Key>
+      <PropertyRef Name="exchange" />
+      <PropertyRef Name="date" />
+      <PropertyRef Name="stock_symbol" />
+      <PropertyRef Name="stock_price_open" />
+      <PropertyRef Name="stock_price_high" />
+      <PropertyRef Name="stock_price_low" />
+      <PropertyRef Name="stock_price_close" />
+      <PropertyRef Name="stock_volume" />
+      <PropertyRef Name="stock_price_adj_close" />
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="exchange" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="date" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="stock_symbol" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="stock_price_open" Type="Double" Nullable="false" />
+    <Property Name="stock_price_high" Type="Double" Nullable="false" />
+    <Property Name="stock_price_low" Type="Double" Nullable="false" />
+    <Property Name="stock_price_close" Type="Double" Nullable="false" />
+    <Property Name="stock_volume" Type="Int32" Nullable="false" />
+    <Property Name="stock_price_adj_close" Type="Double" Nullable="false" />
+    <Property Name="id" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="NYSEDataEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="NYSEDailyPriceAs" EntityType="Self.NYSEDailyPriceA" />
+    <EntitySet Name="NYSEDatas" EntityType="Self.NYSEData" />
+  </EntityContainer>
+</Schema>

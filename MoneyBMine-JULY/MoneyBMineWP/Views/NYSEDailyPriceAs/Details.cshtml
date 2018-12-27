@@ -1,0 +1,83 @@
+﻿@model MoneyBMineWP.Models.NYSEDailyPriceA
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@ViewBag.Title</h2>
+
+<div>
+    <h4>Foreign Stock Data</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.exchange)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.exchange)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_price_open)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_price_open)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_price_high)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_price_high)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_price_low)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_price_low)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_price_close)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_price_close)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_volume)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_volume)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.stock_price_adj_close)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.stock_price_adj_close)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.id)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to Whole Data List", "Index")
+</p>

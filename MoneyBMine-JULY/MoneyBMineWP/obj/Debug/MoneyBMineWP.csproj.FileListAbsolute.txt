@@ -1,0 +1,524 @@
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\ApplicationInsights.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\MoneyBMineWP.dll.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\MoneyBMineWP.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\MoneyBMineWP.pdb
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\csc.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\csc.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\csc.rsp
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\csi.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\csi.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\csi.rsp
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.AppContext.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Console.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\vbc.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\vbc.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\vbc.rsp
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Antlr3.Runtime.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\EntityFramework.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\EntityFramework.SqlServer.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.Web.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Newtonsoft.Json.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\NLog.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Owin.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Net.Http.Formatting.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Helpers.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Http.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Http.WebHost.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Mvc.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Optimization.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Razor.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.WebPages.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\WebGrease.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\NLog.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Helpers.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Mvc.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Optimization.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Razor.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.WebPages.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Newtonsoft.Json.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Antlr3.Runtime.pdb
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Net.Http.Formatting.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Http.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Web.Http.WebHost.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\EntityFramework.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\EntityFramework.SqlServer.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.AI.Web.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\obj\Debug\MoneyBMineWP.csprojAssemblyReference.cache
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CoreCompileInputs.cache
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CopyComplete
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\obj\Debug\MoneyBMineWP.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine\MoneyBMineWP\obj\Debug\MoneyBMineWP.pdb
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\ApplicationInsights.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.dll.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.pdb
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.rsp
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.rsp
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.AppContext.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Console.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.rsp
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Antlr3.Runtime.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.SqlServer.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Web.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Newtonsoft.Json.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\NLog.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Owin.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.Mvc.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Net.Http.Formatting.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Helpers.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.WebHost.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Mvc.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Optimization.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Razor.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\WebGrease.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\NLog.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.Mvc.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Helpers.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Mvc.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Optimization.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Razor.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Newtonsoft.Json.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Antlr3.Runtime.pdb
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Net.Http.Formatting.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.WebHost.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.SqlServer.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Web.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csprojAssemblyReference.cache
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CoreCompileInputs.cache
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CopyComplete
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.dll
+C:\Users\Fen Tong\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.pdb
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\ApplicationInsights.config
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.dll.config
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.pdb
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.exe
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.exe.config
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.rsp
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.exe
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.exe.config
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.rsp
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.AppContext.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Console.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.exe
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.exe.config
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.rsp
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Antlr3.Runtime.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.SqlServer.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Web.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Newtonsoft.Json.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Owin.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.Mvc.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Net.Http.Formatting.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Helpers.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.WebHost.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Mvc.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Optimization.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Razor.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\WebGrease.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.Mvc.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Helpers.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Mvc.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Optimization.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Razor.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Newtonsoft.Json.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Antlr3.Runtime.pdb
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Net.Http.Formatting.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.WebHost.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.SqlServer.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Web.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csprojAssemblyReference.cache
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CoreCompileInputs.cache
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CopyComplete
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.pdb
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\log4net.dll
+C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\bin\log4net.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\ApplicationInsights.config
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.dll.config
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\MoneyBMineWP.pdb
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.exe
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.exe.config
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csc.rsp
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.exe
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.exe.config
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\csi.rsp
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.AppContext.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Console.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Compression.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Claims.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.ValueTuple.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.exe
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.exe.config
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\vbc.rsp
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Antlr3.Runtime.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.SqlServer.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\log4net.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Web.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Newtonsoft.Json.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Owin.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.Mvc.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Net.Http.Formatting.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Helpers.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.WebHost.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Mvc.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Optimization.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Razor.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Razor.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\WebGrease.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\log4net.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\PagedList.Mvc.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Helpers.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Mvc.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Optimization.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Razor.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.WebPages.Razor.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Newtonsoft.Json.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Antlr3.Runtime.pdb
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Net.Http.Formatting.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Web.Http.WebHost.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\EntityFramework.SqlServer.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.AI.Web.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csprojAssemblyReference.cache
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CoreCompileInputs.cache
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.csproj.CopyComplete
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.dll
+C:\Users\Upskilled\Cprogram\MoneyBMine-JULY\MoneyBMineWP\obj\Debug\MoneyBMineWP.pdb

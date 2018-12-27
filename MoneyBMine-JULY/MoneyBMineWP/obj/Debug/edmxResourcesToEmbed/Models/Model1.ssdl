@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NYSEDataModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="NYSEDailyPriceA">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="exchange" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="date" Type="date" Nullable="false" />
+    <Property Name="stock_symbol" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="stock_price_open" Type="float" Nullable="false" />
+    <Property Name="stock_price_high" Type="float" Nullable="false" />
+    <Property Name="stock_price_low" Type="float" Nullable="false" />
+    <Property Name="stock_price_close" Type="float" Nullable="false" />
+    <Property Name="stock_volume" Type="int" Nullable="false" />
+    <Property Name="stock_price_adj_close" Type="float" Nullable="false" />
+    <Property Name="id" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'NYSEData.dbo.NYSEData' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="NYSEData">
+    <Key>
+      <PropertyRef Name="exchange" />
+      <PropertyRef Name="date" />
+      <PropertyRef Name="stock_symbol" />
+      <PropertyRef Name="stock_price_open" />
+      <PropertyRef Name="stock_price_high" />
+      <PropertyRef Name="stock_price_low" />
+      <PropertyRef Name="stock_price_close" />
+      <PropertyRef Name="stock_volume" />
+      <PropertyRef Name="stock_price_adj_close" />
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="exchange" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="date" Type="date" Nullable="false" />
+    <Property Name="stock_symbol" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="stock_price_open" Type="float" Nullable="false" />
+    <Property Name="stock_price_high" Type="float" Nullable="false" />
+    <Property Name="stock_price_low" Type="float" Nullable="false" />
+    <Property Name="stock_price_close" Type="float" Nullable="false" />
+    <Property Name="stock_volume" Type="int" Nullable="false" />
+    <Property Name="stock_price_adj_close" Type="float" Nullable="false" />
+    <Property Name="id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="NYSEDataModelStoreContainer">
+    <EntitySet Name="NYSEDailyPriceA" EntityType="Self.NYSEDailyPriceA" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="NYSEData" EntityType="Self.NYSEData" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [NYSEData].[exchange] AS [exchange], 
+    [NYSEData].[date] AS [date], 
+    [NYSEData].[stock_symbol] AS [stock_symbol], 
+    [NYSEData].[stock_price_open] AS [stock_price_open], 
+    [NYSEData].[stock_price_high] AS [stock_price_high], 
+    [NYSEData].[stock_price_low] AS [stock_price_low], 
+    [NYSEData].[stock_price_close] AS [stock_price_close], 
+    [NYSEData].[stock_volume] AS [stock_volume], 
+    [NYSEData].[stock_price_adj_close] AS [stock_price_adj_close], 
+    [NYSEData].[id] AS [id]
+    FROM [dbo].[NYSEData] AS [NYSEData]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

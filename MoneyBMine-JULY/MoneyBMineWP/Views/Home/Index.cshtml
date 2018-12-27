@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Money-B-Mine</h1>
+    <p class="lead">
+        “Money-B-Mine” is a financial services company that specialises in providing market financial
+        information for retail customers..
+    </p>
+
+</div>
+
+<div class="row">
+    <div class="col-sm-5">
+        <h2>Global Marketing</h2>
+        <p> <strong>18 Mins Ago</strong></p>
+        <p>
+            Stocks traded mostly flat on Monday as investors awaited the release of quarterly
+            results from some of the largest technology companies as well as key economic data.
+        </p>
+        <p><a class="btn btn-default btn-primary" href="https://www.cnbc.com/world-markets/">Jump to see more news &raquo;</a></p>
+    </div>
+
+    <div class="col-sm-7">
+        <h2>Foreign Stock Market</h2>
+        <p>
+            Currently, we are assembling the data from foreign stock market for our valuable customers to review.
+            Based on NYSE's historical data from last 10 years, now you can download this desktop App to select and view the NYSE
+            information according to the stock name to make informed decisions on market movement all by yourself.
+        </p>
+
+        <div style="font-weight:bold">   @Html.ActionLink("Get the Offline App", "Download", "Home")</div>
+        <p>The application will automatically update the data when it can reach the internet!</p>
+    </div>
+
+</div>
+<br />
+<br />
+<br />
+<iframe src="~/Pages/ViewData.aspx" width="730" height="500"></iframe>

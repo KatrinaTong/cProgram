@@ -1,0 +1,66 @@
+﻿<Window x:Class="MoneyBMineWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoneyBMineWPF"
+        mc:Ignorable="d"
+        Title="MoneyBMine" Height="620" Width="1000" Loaded="Window_Loaded">
+    <Window.Resources>
+        <CollectionViewSource x:Key="nYSEDataViewSource" 
+                              d:DesignSource="{d:DesignInstance {x:Type local:NYSEData}, CreateList=True}"/>
+        <RoutedUICommand x:Key="FirstCommand" Text="First"/>
+        <RoutedUICommand x:Key="LastCommand" Text="Last"/>
+        <RoutedUICommand x:Key="NextCommand" Text="Next"/>
+        <RoutedUICommand x:Key="PreviousCommand" Text="Previous"/>
+        <Style x:Key="NavButton" TargetType="{x:Type Button}" BasedOn="{x:Null}">
+            <Setter Property="FontSize" Value="24"/>
+            <Setter Property="FontFamily" Value="Segoe UI Symbol"/>
+            <Setter Property="Margin" Value="2,2,2,0"/>
+            <Setter Property="Width" Value="40"/>
+            <Setter Property="Height" Value="auto"/>
+        </Style>
+    </Window.Resources>
+    <Window.CommandBindings>
+        <CommandBinding Command="{StaticResource FirstCommand}" Executed="FirstCommandHandler"/>
+        <CommandBinding Command="{StaticResource LastCommand}" Executed="LastCommandHandler"/>
+        <CommandBinding Command="{StaticResource NextCommand}" Executed="NextCommandHandler"/>
+        <CommandBinding Command="{StaticResource PreviousCommand}" Executed="PreviousCommandHandler"/>
+    </Window.CommandBindings>
+
+    <Grid DataContext="{StaticResource nYSEDataViewSource}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel  Orientation="Horizontal"  Height="46" VerticalAlignment="Top" Background="Gainsboro" 
+                     DataContext="{StaticResource nYSEDataViewSource}" Grid.RowSpan="3" >
+            <Button Name="btnFirst" Content="|◄" Command="{StaticResource FirstCommand}" Style="{StaticResource NavButton}"  />
+            <Button Name="btnPrev"  Content="◄" Command="{StaticResource PreviousCommand}" Style="{StaticResource NavButton}"/>
+            <Label FontSize="24" FontWeight="Bold" >Foreign Market Historical Daily Data</Label>
+            <Button Name="btnNext"  Content="►" Command="{StaticResource NextCommand}"     Style="{StaticResource NavButton}"/>
+            <Button Name="btnLast"  Content="►|" Command="{StaticResource LastCommand}" Style="{StaticResource NavButton}"/>
+        </StackPanel>
+        <DataGrid x:Name="nYSEDataDataGrid" AutoGenerateColumns="False" AlternatingRowBackground="Gainsboro"  
+                  EnableRowVirtualization="True" ItemsSource="{Binding}" Margin="50,215,50,20" AlternationCount="2" 
+                  RowDetailsVisibilityMode="VisibleWhenSelected" IsReadOnly="True" CanUserSortColumns="True" Grid.Row="2"
+                  SelectionMode="Extended" SelectionUnit="Cell" CanUserReorderColumns="True" CanUserResizeColumns="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="exchangeColumn" Binding="{Binding exchange}" Header="exchange" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="stock_symbolColumn" Binding="{Binding stock_symbol}" Header="stock symbol" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="dateColumn"  Binding="{Binding date, StringFormat={}{0:dd/MM/yyyy} }" Header="date" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="stock_price_adj_closeColumn" Binding="{Binding stock_price_adj_close}" Header="stock price adj close" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="stock_price_closeColumn" Binding="{Binding stock_price_close}" Header="stock price close" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="stock_price_highColumn" Binding="{Binding stock_price_high}" Header="stock price high" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="stock_price_lowColumn" Binding="{Binding stock_price_low}" Header="stock price low" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="stock_price_openColumn" Binding="{Binding stock_price_open}" Header="stock price open" Width="SizeToHeader"/>
+                <DataGridTextColumn x:Name="stock_volumeColumn" Binding="{Binding stock_volume}" Header="stock volume" Width="SizeToHeader"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="lblSearch" Content="Search : Type in the Stock symbol to start the searching...It's case-insensitive" HorizontalAlignment="Left" Margin="10,51,0,0" VerticalAlignment="Top" Height="25" Width="auto" Grid.Row="2"/>
+        <TextBox x:Name="txtSearch"  HorizontalAlignment="Right" Width="199"  Margin="0,95,783,439" Grid.Row="2" />
+        <Button Content="Search" Margin="276,143,625.6,390.4" Grid.Row="2" Click="Button_Click1" RenderTransformOrigin="1.503,0.529"/>
+    </Grid>
+</Window>

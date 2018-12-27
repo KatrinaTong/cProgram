@@ -1,0 +1,6 @@
+21:43:40,976 [C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\Controllers\HomeController.cs] INFO - This is the Home Page log message
+21:43:55,937 [C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\Controllers\HomeController.cs] INFO - This is the Home Page log message
+21:50:13,004 [C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\Controllers\HomeController.cs] INFO - This is the Home Page log message
+22:03:03,543 [C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\Controllers\HomeController.cs] INFO - This is the Home Page log message
+22:23:39,188 [C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\Controllers\HomeController.cs] INFO - This is the Home Page log message
+22:23:58,014 [C:\Users\Upskilled\MoneyBMine-JULY\MoneyBMineWP\Controllers\HomeController.cs] INFO - This is the Home Page log message
