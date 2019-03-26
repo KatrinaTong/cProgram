@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientMoneyMine", "ClientMoneyMine\ClientMoneyMine.csproj", "{D64A004D-F888-40FB-B4B4-FA918220A0FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D64A004D-F888-40FB-B4B4-FA918220A0FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D64A004D-F888-40FB-B4B4-FA918220A0FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D64A004D-F888-40FB-B4B4-FA918220A0FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D64A004D-F888-40FB-B4B4-FA918220A0FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6056EFE6-6843-4413-AA82-5BDBAE71003A}
+	EndGlobalSection
+EndGlobal
